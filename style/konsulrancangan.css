@@ -1,0 +1,24 @@
+.jumbotron{
+    padding: 5rem;
+}
+.isi{
+    padding: 3rem;
+    background-color: #F5F5F5;
+} 
+.isi2{
+    padding: 3rem;
+} 
+.alasan{
+    padding: 3rem;
+    background-color: #F5F5F5;
+}
+.training{
+    padding: 3rem;
+}
+footer{
+    padding-bottom: 3rem;
+    background-color: #0D1282;
+}
+.alamat{
+    background-color: #0D1282;  
+}
