@@ -1,0 +1,21 @@
+.jumbotron{
+    padding-top: 10rem;
+    padding-bottom: 25rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    background-image: url(../img/cfd.jpg);
+    background-repeat: no-repeat;
+}
+.cfd{
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+footer{
+    padding-bottom: 3rem;
+    background-color: #0D1282;
+}
+.alamat{
+    background-color: #0D1282;  
+}
